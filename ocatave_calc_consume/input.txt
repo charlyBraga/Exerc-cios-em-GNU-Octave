@@ -1,0 +1,2 @@
+Tempo: 22
+Velocidade: 67
